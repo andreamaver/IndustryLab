@@ -29,6 +29,6 @@ In the [Notebooks](https://github.com/andreamaver/IndustryLab/tree/main/Notebook
 **Andrea Maver - Data Science Graduate @ University of Milano-Bicocca**
 * a.maver@campus.unimib.it
 * [GitHub](https://github.com/andreamaver)
-* [LinkedIn](https://www.linkedin.com/in/andrea-maver-b19047259/)
+* [LinkedIn](https://www.linkedin.com/in/andrea-maver/)
 
  
